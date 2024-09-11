@@ -4,7 +4,7 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 
 ## Installation
 
-1. Clone the repository to your local machine. ``` git clone https://github.com/Arijit1080/Face-Recognition-Based-Attendance-System ```
+1. Clone the repository to your local machine.
 2. Install the required packages using ```pip install -r requirements.txt```.
 3. Download the dlib models fromsharing and place the data folder inside the repo
 
@@ -16,8 +16,5 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 4. Check the Database by ```python app.py```.
 
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have any suggestions.
 
 
